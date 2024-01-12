@@ -1,0 +1,10 @@
+@article{REPO134,
+    author = "Zhang, Liangfei and Hong, Xiaopeng and Arandjelovi{\'c}, Ognjen and Zhao, Guoying",
+    journal = "IEEE Transactions on Affective Computing",
+    number = "4",
+    pages = "1973--1985",
+    publisher = "IEEE",
+    title = "{Short and Long Range Relation Based Spatio-Temporal Transformer for Micro-Expression Recognition}",
+    volume = "13",
+    year = "2022"
+}
